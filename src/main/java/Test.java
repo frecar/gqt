@@ -1,4 +1,3 @@
-package sample;
 
 /**
  * Created by per on 10/09/15.
